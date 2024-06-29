@@ -21,3 +21,5 @@ nome = lista.pop()
 lista.append(123444)
 del lista[-1]
 print(lista, nome)
+
+# testes de PR
